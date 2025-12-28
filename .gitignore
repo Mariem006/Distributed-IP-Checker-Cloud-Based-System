@@ -1,0 +1,14 @@
+# Node dependencies
+**/node_modules/
+
+# Python cache
+**/__pycache__/
+*.pyc
+
+# Java build
+**/target/
+**/*.class
+
+# Logs
+*.log
+**/node_modules/
